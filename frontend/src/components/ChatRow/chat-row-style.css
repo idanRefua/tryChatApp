@@ -1,0 +1,28 @@
+.row-user-chat {
+  padding: 10px;
+  margin: 5px;
+}
+
+.span-username {
+  font-size: 1.1em;
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  font-weight: bold;
+}
+.img-profile-user {
+  height: 45px;
+  width: 45px;
+  margin-right: 3px;
+}
+
+.span-username {
+  margin-left: 1em;
+}
+
+.row-user-chat:hover {
+  background-color: #bdb2b2;
+  border-radius: 10px;
+}
+
+.span-status-user {
+  margin-left: 1em;
+}

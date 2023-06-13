@@ -1,0 +1,31 @@
+.span-chat-page {
+}
+
+.row {
+  margin: 15px;
+}
+.our-chat-box {
+  border-radius: 20px !important;
+}
+.menu-chats {
+  background-color: #f9b6b6;
+}
+
+.chat-box {
+  background-color: #b9f9d5;
+  padding: 20px;
+  min-height: 92vh !important;
+}
+
+.search-result {
+  width: 72%;
+  border: 2.5px solid black;
+  border-radius: 5px;
+  background: #eeeeee;
+  z-index: 7;
+}
+
+.user-row-search-input:hover {
+  background-color: rgb(227, 255, 252);
+  cursor: pointer;
+}

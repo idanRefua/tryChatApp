@@ -1,0 +1,38 @@
+.register-box {
+  background-color: #8ec5fc;
+  background-image: linear-gradient(62deg, #8ec5fc 0%, #e0c3fc 100%);
+  margin-top: 8em;
+  width: 50em;
+  height: 40em;
+  text-align: center;
+  border-radius: 5em;
+  box-shadow: 10px 10px 10px rgb(0, 0, 0);
+  padding: 3em;
+}
+
+.register-title {
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  font-weight: bold;
+  margin-bottom: 2em;
+}
+
+.register-label {
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  font-weight: bold;
+}
+
+.success-p-register {
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  font-weight: bold;
+  color: rgb(2, 133, 2);
+  font-size: 1.3em;
+}
+
+.navigate-to-login-p {
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.navigate-to-login-p:hover {
+  text-shadow: 5px 5px 5px rgb(45, 45, 45);
+}

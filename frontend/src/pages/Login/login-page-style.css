@@ -1,0 +1,65 @@
+.login-box {
+  background-color: #8ec5fc;
+  background-image: linear-gradient(62deg, #8ec5fc 0%, #e0c3fc 100%);
+  margin-top: 8em;
+  width: 50em;
+  height: 35em;
+  text-align: center;
+  border-radius: 5em;
+  box-shadow: 10px 10px 10px rgb(0, 0, 0);
+  padding: 3em;
+}
+
+.login-label {
+  font-weight: bold;
+}
+
+.login-title {
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  font-weight: bold;
+  margin-bottom: 2em;
+}
+
+.login-btn {
+  background-image: linear-gradient(
+    to right,
+    #614385 0%,
+    #516395 51%,
+    #614385 100%
+  );
+  margin: 10px;
+  padding: 10px 25px;
+  text-transform: uppercase;
+  transition: 0.5s;
+  background-size: 200% auto;
+  color: white;
+  box-shadow: 5px 5px 20px #000000;
+  border-radius: 10px;
+  font-weight: bold;
+}
+.error-validate {
+  color: #ce454e;
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  font-weight: bold;
+}
+.login-btn:hover {
+  background-position: right center;
+  color: #fff;
+  text-decoration: none;
+}
+
+.go-to-register-p {
+  margin-top: 1em;
+  font-weight: bold;
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+.go-to-register-link {
+  text-decoration: none;
+  color: #000;
+}
+
+.go-to-register-link:hover {
+  color: #000;
+  border-bottom: 2px black solid;
+}
